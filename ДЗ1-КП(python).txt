@@ -1,0 +1,138 @@
+Python
+1
+x = int(input())
+count = 0
+
+if x % 2 == 0:
+    while x > 0:
+        x = x // 10
+        count += 1
+    if count == 2:
+        print("true")
+    else:
+        print("false")
+else:
+    print("false")
+
+2
+x = int(input())
+counter = 0
+
+chislo = x
+for i in range(0, 4):
+    k = x % 10
+    x = x // 10
+    counter += 1
+    if counter == 1:
+        obr_chislo = str(k)
+    elif counter > 1:
+        obr_chislo += str(k)
+if chislo == int(obr_chislo):
+    print("true")
+else:
+    print("false")
+
+3
+import math
+
+x, y = map(float, input().split())
+
+r = math.sqrt(x ** 2 + y ** 2)
+if r < 1 or r > 2 or y < 0:
+    print(0)
+else:
+    print(1)
+
+4
+import math
+
+x, y = map(float, input().split())
+
+r = math.sqrt(x ** 2 + y ** 2)
+if y >= 0:
+    if x > 0:
+        if r < 0.3 or r > 1:
+            print(y)
+        else:
+            print(0)
+    else:
+        if r > 1:
+            print(y)
+        else:
+            print(0)
+else:
+    print(y)
+
+5
+import math
+
+x, y = map(float, input().split())
+
+r = math.sqrt(x ** 2 + y ** 2)
+if y >= 0:
+    if x > 0:
+        if y < x or r > 1:
+            print(x - y)
+        else:
+            print(x + y)
+    else:
+        if y < -x or r > 1:
+            print(x - y)
+        else:
+            print(x + y)
+else:
+    print(x - y)
+
+6
+N = int(input())
+A = float(input())
+B = float(input())
+
+H = (B - A) / N
+print(H)
+var = A
+for i in range(0, N):
+    if i == 0:
+        print(var, end=", ")
+    var += H
+    if i == N - 1:
+        print(var)
+    else:
+        print(var, end=", ")
+
+7
+import math
+
+A = float(input())
+N = int(input())
+
+print(math.pow(A, N))
+
+8
+x = float(input())
+
+if x <= -10 or (x >= -3 and x <= 3) or x >= 5:
+    print("true")
+else:
+    print("false")
+
+9
+x = float(input())
+
+if (x >= -10 and x <= -3) or x == 3 or x == 5:
+    print("true")
+else:
+    print("false")
+
+10
+P = float(input())
+vklad = 1000
+count = 0
+
+while vklad <= 1100:
+    _vklad = vklad * P / 100
+    vklad += _vklad
+    count += 1
+
+print(count, vklad)
+
