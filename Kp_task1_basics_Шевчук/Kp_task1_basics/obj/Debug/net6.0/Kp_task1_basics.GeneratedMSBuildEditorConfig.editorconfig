@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = kp_task1
-build_property.ProjectDir = D:\Для программирования\repos\Таск_1_Базис\kp_task1_basics\kp_task1\
+build_property.RootNamespace = Kp_task1_basics
+build_property.ProjectDir = D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\

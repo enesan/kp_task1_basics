@@ -1,0 +1,15 @@
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\bin\Debug\net6.0\Kp_task1_basics.exe
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\bin\Debug\net6.0\Kp_task1_basics.deps.json
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\bin\Debug\net6.0\Kp_task1_basics.runtimeconfig.json
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\bin\Debug\net6.0\Kp_task1_basics.dll
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\bin\Debug\net6.0\Kp_task1_basics.pdb
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\obj\Debug\net6.0\Kp_task1_basics.csproj.AssemblyReference.cache
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\obj\Debug\net6.0\Kp_task1_basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\obj\Debug\net6.0\Kp_task1_basics.AssemblyInfoInputs.cache
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\obj\Debug\net6.0\Kp_task1_basics.AssemblyInfo.cs
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\obj\Debug\net6.0\Kp_task1_basics.csproj.CoreCompileInputs.cache
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\obj\Debug\net6.0\Kp_task1_basics.dll
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\obj\Debug\net6.0\refint\Kp_task1_basics.dll
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\obj\Debug\net6.0\Kp_task1_basics.pdb
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\obj\Debug\net6.0\Kp_task1_basics.genruntimeconfig.cache
+D:\Для программирования\repos\Kp_task1_basics\Kp_task1_basics\obj\Debug\net6.0\ref\Kp_task1_basics.dll
